@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-fw",
+  "version": "1.0.1",
+  "description": "Fachwerk ESLint rules",
+  "main": "index.js",
+  "author": "Kevin Ries <kevin@fachw3rk.de>",
+  "license": "MIT"
+}
