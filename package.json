@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fw",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fachwerk ESLint rules",
   "main": "index.js",
   "author": "Kevin Ries <kevin.ries@fachwerk.io>",
